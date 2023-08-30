@@ -1,8 +1,15 @@
 import './ScrollableList.css';
+import { useState } from 'react';
 
 function ScrollableList() {
 
-    var items = ["Purdue University", "Babson College"];
+    const items = ["Purdue University", "Babson College"];
+
+    const selected = [];
+
+    function select(name) {
+        setS
+    }
 
     return (
         <div className = "Scroller">
