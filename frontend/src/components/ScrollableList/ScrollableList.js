@@ -5,7 +5,7 @@ function ScrollableList() {
     var items = ["Purdue University", "Babson College"];
 
     return (
-        <div className = "scroller">
+        <div className = "Scroller">
             {items.map((university) => {
             return (
                 <button className="item">

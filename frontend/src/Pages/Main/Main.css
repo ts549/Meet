@@ -1,4 +1,24 @@
 .Main{
-    height: 100px;
-    width: 100px;
+    height: 100vh;
+    width: 100vw;
+}
+
+.Logo{
+    margin-top: 150px;
+    margin-left: 250px;
+    font-size: 50px;
+}
+
+.Blurb {
+    margin-top: 20px;
+    margin-left: 250px;
+    font-size: 25px;
+}
+
+.Search {
+    margin-top: 40px;
+    margin-left: 250px;
+    width: 300px;
+    height: 300px;
+    background-color: gray;
 }
